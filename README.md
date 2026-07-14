@@ -23,21 +23,6 @@ A simple and secure **Random Password Generator** built using **Python** and **T
 - string module
 - secrets module
 
-## 📂 Project Structure
-
-```
-RandomPasswordGenerator/
-│
-├── main.py
-├── gui.py
-├── password_generator.py
-├── clipboard.py
-├── README.md
-├── requirements.txt
-└── screenshots/
-    └── app.png
-```
-
 ## ▶️ How to Run
 
 1. Clone this repository or download the project.
